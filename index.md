@@ -1,4 +1,4 @@
-# Modélisation du trafic routier et impact du nombre de voies sur le débit des véhicules
+# Modélisation du trafic routier
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
@@ -15,13 +15,13 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 ## Description synthétique du projet
 
-**Problématique :** Quelles sont les impacts de la météo sur la propagation d'un incendie de forêt ?
+**Problématique :** Le nombres de voies influe-t-il sur le debit de véhicule. 
 
-**Hypothèse principale :** La météo joue un role décisif sur l'extinction d'un incendie.
+**Hypothèse principale :** Plus on augmente le nombre de voies, plus le débit sera important.
 
 **Hypothèses secondaires :** 
 
-**Objectifs :**
+**Objectifs :** 
 
 **Critère(s) d'évaluation :**
 
