@@ -17,7 +17,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 **Problématique :** Le nombres de voies influe-t-il sur le debit de véhicule. 
 
-**Hypothèse principale :** Plus on augmente le nombre de voies, plus le seuil de saturation augmente.
+**Hypothèse principale :** Plus on augmente le nombre de voies, plus le seuil de saturation de la route augmente.
 
 **Hypothèses secondaires :** 
 
