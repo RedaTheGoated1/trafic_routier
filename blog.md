@@ -1,8 +1,8 @@
 ## Travail effectué 
 
-=> Description hebdomadaire du travail effectué (variez les auteurs !)
-
 ### Semaine 1
+Choix du thème et de la problématique.
+Mise en place du blog
 ### Semaine 2
 ### Semaine 3
 ### ...
