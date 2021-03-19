@@ -3,6 +3,7 @@
 ### Semaine 1
 Choix du thème et de la problématique. Mise en place du blog.
 ### Semaine 2
+On commences les recherches bibliographiques, et réalisation du carnet de bord
 ### Semaine 3
 ### ...
 
