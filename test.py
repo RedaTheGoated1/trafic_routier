@@ -5,3 +5,4 @@ def creation_route(taille):
     return route
 
     
+creation_route(3)
