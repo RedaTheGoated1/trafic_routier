@@ -15,7 +15,7 @@ Début création d'une nouvelle fonction (simulation du trafic routier).
 ### Semaine 7 
 Réalisation du fichier index et finition de la nouvelle fonction (simulation du trafic routier).
 ### Semaine 8
-Création du site et révision du code réalisé . 
+révision du code réalisé et création d'une démo . 
 
 
 <a href="index.html"> Retour à la page principale </a>
