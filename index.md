@@ -12,6 +12,7 @@ A traffic jam, usually a car traffic jam, greatly reduces the speed of vehicles 
 | Ilies Zouatnia | | |  
 |  Bignet  Remi  |  |  |
 |  Anas  El  farsi  |  |  |
+|  Khaddari Reda |  |  |  | 
 
 
 ## Description synthétique du projet
