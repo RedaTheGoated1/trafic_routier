@@ -37,4 +37,9 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+Pour notre projet , on a utilisé 3 types des sources :
+- Sites Web : Wikipedia , Le figaro , Bison Futé , Techno Science ...
+- Theèse de doctorat : Modélisation mathématique et simulation du trafic routier : analyse statistique de modèles d’insertion et simulation probabiliste d’un modèle cinétique
+  de Jyda Mint Moustaph.
+  - Catalogue : Catalogue de Sorbonne Université.
+
