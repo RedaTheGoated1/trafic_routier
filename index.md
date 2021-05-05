@@ -37,9 +37,11 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
 
-Pour notre projet , on a utilisé 3 types des sources :
+Pour notre projet , on a utilisé 4 types des sources :
 - Sites Web : Wikipedia , Le figaro , Bison Futé , Techno Science ...
-- Theèse de doctorat : Modélisation mathématique et simulation du trafic routier : analyse statistique de modèles d’insertion et simulation probabiliste d’un modèle cinétique
+- Thèse de doctorat : Modélisation mathématique et simulation du trafic routier : analyse statistique de modèles d’insertion et simulation probabiliste d’un modèle cinétique
   de Jyda Mint Moustaph.
   - Catalogue : Catalogue de Sorbonne Université.
+  - Articles : « Les embouteillages à l'épreuve de la théorie du chaos et de la physique des fluides » Paris :Les Echos
+              « le crise sanitaire a rétréci les embouteillages sur les routes françaises » Paris : Les Echos
 
