@@ -27,7 +27,7 @@ A traffic jam, usually a car traffic jam, greatly reduces the speed of vehicles 
 **Critère(s) d'évaluation :**
 
 ## Présentation structurée des résultats
-
+Nous avons choisis de modéliser le trafic routier grâce à un algorithme python. Notre algorithme simule le comportement des automobilistes.  
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
